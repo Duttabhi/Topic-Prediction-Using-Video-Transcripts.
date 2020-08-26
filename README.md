@@ -12,6 +12,7 @@ Procedure
 Diagram
 Working
 Conclusion
+
 **1. Readings**
 
 **a. Topic modelling**
