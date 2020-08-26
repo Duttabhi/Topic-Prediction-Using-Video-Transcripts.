@@ -1,4 +1,4 @@
-# TopicModelling
+# Topic Modelling.
 Topic modelling of transcript-ed you-tube videos
 
 **Objective:** *Extract the important topics associated with the video by genrating it's transcript and making predictions based on that.*
