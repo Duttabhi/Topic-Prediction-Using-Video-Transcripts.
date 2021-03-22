@@ -3,7 +3,7 @@ Topic modelling of transcript-ed you-tube videos
 
 **Objective:** *Extract the important topics associated with the video by genrating it's transcript and making predictions based on that.*
 
-Detailed report can be found at: https://bit.ly/2Agg7SV
+Detailed report can be found at: https://duttabhi.github.io/Topic-Prediction-Using-Video-Transcripts./report.html
 
 *Following are the details of it.*
 
